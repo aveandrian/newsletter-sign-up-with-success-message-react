@@ -24,4 +24,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/newsletter-sign-up-with-success-message-react/assets/13519212/e4a1118e-0bf6-4539-b446-a367a64d5885)
